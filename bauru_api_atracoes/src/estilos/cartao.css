@@ -1,0 +1,24 @@
+
+.atracoes_temas {
+    border-radius: 10px;
+    max-width: 25rem;
+    padding: 1rem 2rem 2rem;
+    box-sizing: border-box;
+    margin-bottom: 2.25rem;
+    border: 1px solid;
+}
+
+
+
+/*.cartao-post__meta {
+    line-height: 1.3rem;
+}*/
+
+@media(min-width: 900px) {
+    .posts {
+        align-items: stretch;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+}

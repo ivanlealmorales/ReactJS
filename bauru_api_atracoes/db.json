@@ -1,0 +1,75 @@
+{
+  "categorias": [
+    {
+      "id": "turismo",
+      "nome": "turismo",
+      "subcategorias": ["pontos-turisticos", "gastronomia"]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Parque Vitória Régia",
+      "metadescription": "Um dos principais parques de Bauru, ideal para caminhadas e piqueniques",
+      "body": "O Parque Vitória Régia é conhecido por sua ampla área verde, lago com pedalinhos e trilhas para caminhadas. É um ótimo local para quem busca tranquilidade em meio à natureza.",
+      "categoria": "turismo",
+      "subcategoria": "pontos-turisticos"
+    },
+    {
+      "id": 2,
+      "title": "Zoológico Municipal de Bauru",
+      "metadescription": "Visite diversas espécies de animais em um ambiente natural",
+      "body": "O Zoológico Municipal de Bauru abriga uma variedade de animais, proporcionando uma experiência educativa e de contato com a fauna para visitantes de todas as idades.",
+      "categoria": "turismo",
+      "subcategoria": "pontos-turisticos"
+    },
+    {
+      "id": 3,
+      "title": "Museu Histórico e Pedagógico Hermínio Bueno",
+      "metadescription": "Conheça a história e cultura de Bauru através de exposições e acervo",
+      "body": "O Museu Hermínio Bueno oferece exposições permanentes e temporárias que contam a história de Bauru, desde seu desenvolvimento até sua cultura local. Uma visita imperdível para quem aprecia história e arte.",
+      "categoria": "turismo",
+      "subcategoria": "pontos-turisticos"
+    },
+    {
+      "id": 4,
+      "title": "Parque Vitória Régia",
+      "metadescription": "Experimente a culinária típica de Bauru em restaurantes tradicionais",
+      "body": "Bauru oferece uma rica variedade gastronômica, com restaurantes que servem desde pratos típicos da região até culinárias internacionais. Uma oportunidade para explorar novos sabores e delícias.",
+      "categoria": "turismo",
+      "subcategoria": "gastronomia"
+    },
+    {
+      "id": 5,
+      "title": "Feira da Praça Rui Barbosa",
+      "metadescription": "Compre produtos frescos e artesanatos locais em uma feira tradicional",
+      "body": "A Feira da Praça Rui Barbosa é um ponto de encontro semanal para moradores e visitantes que desejam comprar produtos frescos, artesanatos locais e experimentar comidas típicas da região.",
+      "categoria": "turismo",
+      "subcategoria": "gastronomia"
+    },
+    {
+      "id": 6,
+      "title": "Teatro Municipal de Bauru",
+      "metadescription": "Assista a peças de teatro, shows e apresentações culturais",
+      "body": "O Teatro Municipal de Bauru é um espaço cultural que oferece uma programação diversificada, incluindo peças de teatro, shows musicais, danças e outras manifestações artísticas.",
+      "categoria": "turismo",
+      "subcategoria": "pontos-turisticos"
+    },
+    {
+      "id": 7,
+      "title": "Catedral do Divino Espírito Santo",
+      "metadescription": "Visite uma das principais igrejas históricas de Bauru",
+      "body": "A Catedral do Divino Espírito Santo é um marco histórico e religioso de Bauru, conhecida por sua arquitetura imponente e belos vitrais. Um local de visita obrigatória para quem aprecia arquitetura sacra.",
+      "categoria": "turismo",
+      "subcategoria": "pontos-turisticos"
+    },
+    {
+      "id": 8,
+      "title": "Parque Zoobotânico de Bauru",
+      "metadescription": "Explore a flora e fauna local em um ambiente natural preservado",
+      "body": "O Parque Zoobotânico de Bauru é uma área de preservação ambiental que combina conservação da natureza com educação ambiental. Os visitantes podem conhecer diversas espécies de plantas e animais nativos.",
+      "categoria": "turismo",
+      "subcategoria": "pontos-turisticos"
+    }
+  ]
+}
